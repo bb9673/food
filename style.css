@@ -1,0 +1,263 @@
+h2{
+    margin: 0;
+}
+.img6{
+height: 400px;
+width: 600px;
+}
+
+.h2{
+    background-color: #fff;
+    height:300px ;
+    width: 200px;
+    position: absolute;
+}
+
+.h3{
+    margin-left: 200px;
+}
+.img2{
+    height: 300px;
+    width: 400px;
+}
+.s1{
+    height: 10px;
+    width: 5px;
+}
+.p1{
+    height: 700px;
+    text-align: center;
+
+}
+.h4{
+    position: absolute;
+}
+.img3{
+height: 300PX;
+width: 400PX;    
+}
+.h5{
+    background-color:#fff;
+    height: 300px;
+    width: 200px;
+    margin-left: 403px;
+}
+.h6{
+    height: 300px;
+    width: 200px;
+    background-color: #fff;
+    margin-bottom: 100px;
+    position: absolute;
+}
+.p2{
+    height: 700px;
+    text-align: center;
+}
+.h7{
+    margin-left: 200px;
+}
+.img4{
+    height: 300px;
+    width: 400px;
+}
+.sp2{
+    margin-left: 300px;
+}
+h2{
+    text-align: center;
+}
+.p3{
+    height: 700px;
+    text-align: center;
+}
+.q2{
+    text-align: center;
+    background-color: #fff;
+    width: 600px;
+}
+.q1{
+    text-align: center;
+    background-color: #fff;
+    width: 600px;
+}
+.h8{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+}
+.b1{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+.b1:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;s
+}
+.o1{
+height: 100px;
+width: 100px;
+}
+.h9{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 210px;
+    position: absolute;
+}
+.b2{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.b2:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;s
+}
+.o2{
+height: 100px;
+width: 100px;
+}
+.h10{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 420px;
+}
+.b3{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.b3:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;s
+}
+.o3{
+height: 100px;
+width: 100px;
+}
+.h11{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 20px;
+}
+.b4{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.b4:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;s
+}
+.o4{
+height: 100px;
+width: 100px;
+}
+.h12{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 210px;
+    position: absolute;
+    margin-top: 20px;
+}
+.b5{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.b5:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;s
+}
+.o5{
+height: 100px;
+width: 100px;
+}
+.h13{
+    background-color: #fff;
+    text-align: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 420px;
+}
+.b6{
+    background-color:black ;
+    color: #fff;
+    height: 20px;
+    width: 150px;
+    font-style: italic;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.b6:hover{
+    color: black;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.o6{
+    height: 100px;
+    width: 100px;
+    }
+.shef{
+    margin-left: 50px;
+    position: absolute;
+}
+ .i1{
+    height: 200px;
+
+}
+.shef1{
+    margin-left: 350px;
+
+}
+.i2{
+    height: 200px;
+    width: 200px;
+}
